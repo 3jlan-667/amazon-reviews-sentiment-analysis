@@ -11,3 +11,7 @@ This project analyzes customer reviews for the **Huawei Mate 2** to understand u
 
 ## Visualization
 The project includes a bar chart showing the distribution of sentiments for the selected product.
+
+## Dataset
+The dataset used in this project is the **Amazon Unlocked Mobile Reviews**, which contains over 400,000 reviews.
+- You can download it from Kaggle: (https://www.kaggle.com/datasets/PromptCloudHQ/amazon-reviews-unlocked-mobile-phones)
